@@ -22,9 +22,9 @@ export default function Research() {
     },
     {
       title: "Research Topic 2",
-      description: "Add description.",
+      description: "description.",
       image: "/research2.jpg",
-      category: "Category",
+      category: "category",
       date: "Date",
       tags: ["Tag 1", "Tag 2"],
       href: "",
@@ -32,9 +32,9 @@ export default function Research() {
     {
       title: "Your Research Title Here",
       description:
-        "Add your research project description here. What problem did you solve? What did you discover?",
+        "description",
       image: "/research3.jpg",
-      category: "Your Category",
+      category: "category",
       date: "Month Year",
       tags: ["Tag 1", "Tag 2"],
       href: "",
