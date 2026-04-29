@@ -62,11 +62,11 @@ export default function Home() {
     },
     {
       title: "Education:",
-      description: "Northeastern University",
+      description: "Northeastern University - Data Science and Economics",
     },
     {
       title: "Hobbies:",
-      description: "Trying to cook and eat new foods, Skiing, Crew!",
+      description: "Trying to cook and eat new foods, any outdoor activity, crew!",
     },
   ];
 
